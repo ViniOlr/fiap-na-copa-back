@@ -5,7 +5,7 @@ import br.com.fiap.to.UsuarioTO;
 
 public class Teste {
 	
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		UsuarioBO ub = new UsuarioBO();
 		UsuarioTO ut = new UsuarioTO("4","4","Teste", 1234);
